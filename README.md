@@ -94,8 +94,7 @@ Weather_project/
 ├── .gitignore
 ├── db.sqlite3
 ├── manage.py
-├── requirements.txt
-└── venv/  # Virtual environment
+└── requirements.txt
 ```
 
 ## Contributing 🌍
