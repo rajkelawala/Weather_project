@@ -126,7 +126,7 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact 📩
+## Contact 📬
 
 Developed by Raj Kelawala. For any inquiries or feedback, please contact me at [rajkelawala28@gmail.com](mailto:rajkelawala28@gmail.com).
 
