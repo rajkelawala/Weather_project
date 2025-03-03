@@ -63,40 +63,6 @@ A Django-based weather application that fetches real-time weather data and 5-day
 - **Search for Weather Information**: Enter the desired city or location in the search bar to retrieve current weather data.
 - **View Weather Details**: The application displays temperature, humidity, weather conditions, and more.
 
-## Project Structure  📂
-
-```
-Weather_project/
-├── wether_project/
-│   ├── __pycache__/
-│   ├── __init__.py
-│   ├── asgi.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│
-├── wether_app/
-│   ├── __pycache__/
-│   ├── migrations/
-│   ├── static/
-│   │   ├── style.css
-│   ├── templates/
-│   │   ├── city_weather.html
-│   │   ├── index.html
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── urls.py
-│   ├── views.py
-│
-├── .gitignore
-├── db.sqlite3
-├── manage.py
-└── requirements.txt
-```
-
 ## Contributing 🌍
 
 Contributions are welcome! To contribute:
